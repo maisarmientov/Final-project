@@ -1,2 +1,2 @@
-# agial-final-project
+# agile-final-project
 Agile hands on laboratory
